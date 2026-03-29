@@ -1,17 +1,17 @@
 1. Memilih tools migrasi file, misal kita gunakan filezila 
-    . unduh dan install filezila 
-    . buka filezilla client
-    . aktifkan instance di aws 
-    . kembali ke filezilla client 
-    . klik file > site manager 
-    . klik new site
-    . protocol > SFTP
-    . host > IP public EC2
-    . port > 22
-    . logon type > key file
-    . user > ubuntu
-    . key file > pilih file .ppk/ .pem yang di download saat membuat instance
-    . kilik ok CTRL + S klik Connect
+    - unduh dan install filezila 
+    - buka filezilla client
+    - aktifkan instance di aws 
+    - kembali ke filezilla client 
+    - klik file > site manager 
+    - klik new site
+    - protocol > SFTP
+    - host > IP public EC2
+    - port > 22
+    - logon type > key file
+    - user > ubuntu
+    - key file > pilih file .ppk/ .pem yang di download saat membuat instance
+    - kilik ok CTRL + S klik Connect
      ![alt text](image.png)
 
 2. Pada dashboard utama filezilla akan terbagi menjadi 2 panel
