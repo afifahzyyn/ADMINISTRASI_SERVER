@@ -119,5 +119,5 @@ CREATE TABLE IF NOT EXISTS users (
 -- -------------------------------------------------------------
 -- Note: Password di bawah adalah hash bcrypt dari "admin123"
 INSERT INTO users (username, password, role) VALUES
-  ('admin', '$2b$10$AYEh3JcdZRr76lMBa3jyVOp7ljwlJRiS205Hs.3vNVKXqsxCrlUrq', 'admin')
+  ('admin2', '$2b$10$AYEh3JcdZRr76lMBa3jyVOp7ljwlJRiS205Hs.3vNVKXqsxCrlUrq', 'admin')
 ON DUPLICATE KEY UPDATE password = VALUES(password);
