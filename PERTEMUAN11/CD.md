@@ -60,7 +60,7 @@ jobs:
           docker pull ${{ secrets.DOCKERHUB_USERNAME }}/compro_2388010032:latest
           docker run -d --name compro_2388010032 -p 80:80 ${{ secrets.DOCKERHUB_USERNAME }}/compro_2388010032:latest
 
-    ![alt text](image-1.png)
+  ![alt text](image-4.png)
 
 3. Finall
 
