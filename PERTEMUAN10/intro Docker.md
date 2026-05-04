@@ -13,7 +13,7 @@ Intro Docker Engine in Instance EC2 AWS
         - periksa Instalasi sudo systemctl status docker
         ![alt text](image.png)
 2. Registrasi Docker Hub
-    - URL Docker Hub ( https://app.docker.com/accounts/1005morinpitalaura )
+    - URL Docker Hub ( https://app.docker.com/accounts/afifahzyyn )
     - Lanjutkan dengan Github
     ![alt text](image-1.png)
 3. Buat Repositori untuk Docker
@@ -34,4 +34,4 @@ Intro Docker Engine in Instance EC2 AWS
     - masukkan file index.html
     - buat Dockerfile dengan isi sebagai berikut FROM nginx:alpine COPY index.html /usr/share/nginx/html/index.html EXPOSE 80
     - Dorong proyek ke github
-    ![alt text](image-4.png)
+      ![alt text](image-4.png)
