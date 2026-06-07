@@ -15,7 +15,7 @@ WEB STATIS
     ![alt text](image-3.png)
 
 4. Buat Repo baru di Docker
-    ![alt text](image-4.png)
+    ![alt text](image-17.png)
 
 5. Buat Token di Docker
     ![alt text](image-5.png)
